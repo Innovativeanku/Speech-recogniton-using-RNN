@@ -63,7 +63,8 @@ structure. Recurrent networks are the state of the art in
 nonlinear time series prediction, system identification, and
 temporal pattern classification.
 
-<img width="339" alt="Screenshot 2023-09-08 at 5 02 54 PM" src="https://github.com/Innovativeanku/Speech-recogniton-using-RNN/assets/130054612/7389b9ff-1beb-4187-97db-045014bcfa70">
+<img width="339" align="centre" alt="Screenshot 2023-09-08 at 5 02 54 PM" src="https://github.com/Innovativeanku/Speech-recogniton-using-RNN/assets/130054612/7389b9ff-1beb-4187-97db-045014bcfa70">
+
 Fig RNN Architecture
 
 Actually this architecture has been used in visual
